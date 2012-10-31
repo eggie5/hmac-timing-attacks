@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hitimes (1.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hitimes
