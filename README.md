@@ -1,4 +1,6 @@
 hmac-timing-attacks
 ===================
 
-HMAC timing attack's w/ statistical analysis (EE 300 project)
+HMAC timing attack's w/ statistical analysis 
+
+http://eggie5.com/45-hmac-timing-attacks
